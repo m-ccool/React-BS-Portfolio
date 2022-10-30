@@ -1,0 +1,9 @@
+<script type="text/javascript">
+    $('.nav a').on('click', function () {
+        $('.btn-navbar').click(); //bootstrap 2.x
+        $('.navbar-toggler').click() //bootstrap 3.x  
+    });
+
+    const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+    </script>
