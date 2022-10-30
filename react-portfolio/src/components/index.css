@@ -2,9 +2,7 @@
 
 
 
-*, ::after, ::before {
-  box-sizing: border-box;
-}
+
 
 * {
   transition: all 800ms ease;

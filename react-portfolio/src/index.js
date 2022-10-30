@@ -1,12 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import './App.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+
 import NavBar from './components/Navbar';
+import Header from './components/Header';
 import Footer from './components/Footer';
-import Main from './components/Projects';
+import Projects from './components/Projects';
+import Skills from './components/Skills';
+import Contact from './components/Contact';
+
+import './index.css'
+
+import './App.css'
+
 // Bootstrap CSS
 import "bootstrap/dist/css/bootstrap.min.css";
 // Bootstrap Bundle JS
@@ -16,8 +22,10 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <NavBar />
-    <App />
-    <Main />
+    <Header />
+    <Projects />
+    <Skills />
+    <Contact />
     <Footer />
   </React.StrictMode>
   

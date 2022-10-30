@@ -1,4 +1,7 @@
 import React from 'react'
+import { Icon } from '@iconify/react';
+
+
 
 const NavBar = () => {
     return (
@@ -14,7 +17,7 @@ const NavBar = () => {
               <ul class="navbar-nav">
                 <li class="nav-item d-flex justify-content-center">
                   <a class="btn nav-btn" role="button" href="https://github.com/m-ccool">
-                    <i class="fab fa-github"></i>
+                  <Icon icon="akar-icons:github-fill" class="app-card-icon" color="white" width="25px" height="25px"/>
                   </a>
                 </li>
                 <li class="nav-item d-flex justify-content-end">
