@@ -13,6 +13,7 @@ React web app portfolio with Bootstrap 5 framework
 
 ## Installation
 * requires NPM and Node.js
+
 To deploy app locally, please run (cmd) "npm install", "npm start run" to view the local dev build
 
 ## Usage
