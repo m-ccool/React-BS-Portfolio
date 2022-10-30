@@ -1,5 +1,10 @@
-# React-BS-Portfolio
+# React-Portfolio
 React web app portfolio with Bootstrap 5 framework
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Author](#author)
 
 ## Deployed Application
 **[🖥️ Deployed Application 🖱️](https://react-portfolio-mccool.herokuapp.com/)**
