@@ -9,14 +9,13 @@ import Projects from './components/Projects';
 import Skills from './components/Skills';
 import Contact from './components/Contact';
 
-import './index.css'
-
-import './App.css'
 
 // Bootstrap CSS
 import "bootstrap/dist/css/bootstrap.min.css";
 // Bootstrap Bundle JS
 import "bootstrap/dist/js/bootstrap.bundle.min";
+
+import './index.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

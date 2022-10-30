@@ -1,9 +1,6 @@
 import React from 'react';
 import { Icon } from '@iconify/react';
 
-import './App.css'
-
-
 import rabitIcon from './assets/img/rabbit.svg'
 import pinkguyImg from './assets/img/pinkGUY-PREVIEW2.png'
 import rabithabitImg from './assets/img/RABIT-HABIT-med-preview.png'

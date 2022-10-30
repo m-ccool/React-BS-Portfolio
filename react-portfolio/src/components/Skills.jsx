@@ -1,8 +1,6 @@
 import React from 'react';
 import { Icon } from '@iconify/react';
 
-import './App.css'
-import './index.css'
 
 const Skills = () => {
     return (    

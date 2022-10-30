@@ -1,8 +1,6 @@
 import React from 'react'
 import { Icon } from '@iconify/react';
 
-
-
 const NavBar = () => {
     return (
         <nav class="navbar navbar-expand-md sticky-top">

@@ -2,9 +2,9 @@ import React from 'react'
 import { Icon } from '@iconify/react';
 
 
-
 const Contact = () => {
-    return (    
+    return (   
+       
       <section id="contact">
           <div class="row" id="contact-p">
           <div class="col-12">
